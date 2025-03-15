@@ -43,3 +43,22 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter-specific
+.build/
+.dart_tool/
+.packages
+.pub/
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/Generated.xcconfig
+web/.dart_tool/
+linux/.dart_tool/
+windows/.dart_tool/
