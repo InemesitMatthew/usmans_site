@@ -60,7 +60,6 @@ macos/Flutter/Generated.xcconfig
 web/.dart_tool/
 linux/.dart_tool/
 windows/.dart_tool/
-.gitignore
 
 .vscode/
 public/fonts/
